@@ -1,3 +1,3 @@
 :1
-start release-1.0-BoxSpamming_By-ClassyCrafter.vbs
+start box.vbs
 goto 1
